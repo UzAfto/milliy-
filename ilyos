@@ -1,0 +1,2 @@
+df1 = pd.DataFrame(np.random.randn(3,4), index=list('abc'), columns=['Olma','Anor','Qovun','Anjir'])
+df1
